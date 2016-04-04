@@ -1,6 +1,6 @@
 # TextAdventure-Engine
 
-A demonstration of a text adventure written in C++ similar to [Zork](https://en.wikipedia.org/wiki/Zork).
+A text adventure engine written in C++ similar to [Zork](https://en.wikipedia.org/wiki/Zork).
 
 ## Installation
 
